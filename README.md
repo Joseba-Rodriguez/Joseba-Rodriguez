@@ -37,7 +37,7 @@ josebarv@taller:~$ █
 ```
 
 Le hablas, te escucha con atención, y mientras responde mueve la cabeza, aparta la mirada y gesticula con la mano.
-Todo el código, los límites de cada servo y un simulador en Python están en **[3D-Humanoid](https://github.com/Joseba-Rodriguez/3D-Humanoid)**.
+Todo el código, los límites de cada servo y un simulador en Python están en **[Elver-Humanoid](https://github.com/Joseba-Rodriguez/Elver-Humanoid)**.
 
 ---
 
@@ -60,7 +60,7 @@ Todo el código, los límites de cada servo y un simulador en Python están en *
 
 | | Proyecto | Qué hace |
 |---|---|---|
-| 🤖 | [**3D-Humanoid**](https://github.com/Joseba-Rodriguez/3D-Humanoid) | Elver: humanoide con cuello, ojos y mano robóticos, con voz por ESP32 |
+| 🤖 | [**Elver-Humanoid**](https://github.com/Joseba-Rodriguez/Elver-Humanoid) | Elver: humanoide con cuello, ojos y mano robóticos, con voz por ESP32 |
 | 🦿 | [**Zowi-controller**](https://github.com/Joseba-Rodriguez/Zowi-controller) | GUI en Python para controlar el robot Zowi: andar, bailar, pitar y liarla |
 | 🎙️ | [**AutoPodcast**](https://github.com/Joseba-Rodriguez/AutoPodcast) | Genera podcasts automáticos, con guion y voz |
 | ⛳ | [**GolfinGolfin-Garmin**](https://github.com/Joseba-Rodriguez/GolfinGolfin-Garmin) | App de golf para el reloj Garmin Instinct E, en Monkey C |
